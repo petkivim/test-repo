@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.pkrete</groupId>
     <artifactId>test-project</artifactId>
-    <version>2.0.1</version>
+    <version>2.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
         <jdk.version>1.8</jdk.version>
@@ -44,7 +44,7 @@
         <connection>scm:git:https://github.com/petkivim/test-repo.git</connection>
         <developerConnection>scm:git:git@github.com:petkivim/test-repo.git</developerConnection>
         <url>https://github.com/petkivim/test-repo</url>
-        <tag>v2.0.1</tag>
+        <tag>v2.0.0</tag>
     </scm>
     <distributionManagement>
         <repository>
