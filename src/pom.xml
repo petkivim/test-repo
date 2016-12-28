@@ -41,8 +41,8 @@
         </plugins>
     </build>
     <scm>        
-        <connection>scm:git:ssh://git@github.com:petkivim/test-project.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:petkivim/test-project.git</developerConnection>
+        <connection>scm:git:ssh://git@github.com/petkivim/test-project.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/petkivim/test-project.git</developerConnection>
         <url>https://github.com/petkivim/test-repo</url>
         <tag>v2.0.0</tag>
     </scm>
