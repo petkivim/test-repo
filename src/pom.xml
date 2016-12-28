@@ -50,12 +50,12 @@
         <repository>
             <id>central</id>
             <name>localhost.localdomain-releases</name>
-            <url>http://192.168.0.21:8081/artifactory/ext-release-local</url>
+            <url>http://192.168.0.21:8081/artifactory/libs-release</url>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
             <name>localhost.localdomain-snapshots</name>
-            <url>http://192.168.0.21:8081/artifactory/ext-snapshot-local</url>
+            <url>http://192.168.0.21:8081/artifactory/libs-snapshot</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
